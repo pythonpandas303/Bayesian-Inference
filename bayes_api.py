@@ -1,5 +1,3 @@
-# MIT 6.034 Lab 8: Bayesian Inference
-
 import copy
 from functools import reduce
 
